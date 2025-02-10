@@ -8,10 +8,7 @@
 </p>
 
 -----------------------------------------------------------
-👨🏻‍💻 **About Me**
-✨ Final year Undegrad | Open-Source Contributor | C++ | DSA <br>
- 💬 Ask me about Tech!<br>
- <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+  <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 
 <!--- Adding Tech Stack open Section -->
  # 💻 Tech Stack:
