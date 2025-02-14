@@ -6,12 +6,14 @@
   <a href="https://sitambhra02.github.io/portfolio/">Portfolio</a> -
   <a href="https://www.linkedin.com/in/sitambhra/">LinkedIn</a> 
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sitambhra&label=Profile%20views&color=0e75b6&style=flat" alt="sitambhra" /> </p>
 
 -----------------------------------------------------------
   <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
-
+ 
 <!--- Adding Tech Stack open Section -->
- # 💻 Tech Stack:
+ 
+# 💻 Tech Stack:
 
 ## ⚡ Frontend Development:
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
@@ -36,3 +38,18 @@
 ## 🛠️ Tools & Platforms:
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
  ![Figma](https://img.shields.io/badge/Figma-000000.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+
+<p align="center">
+  <a href="https://github.com/sitambhra">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sitambhra&theme=radical" alt="Sitambhra's GitHub Contribution"/>
+  </a>
+</p>
+    <a href="https://github.com/sitambhra"><img alt="Sitambhra's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=sitambhra&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/sitambhra"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sitambhra&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+<br />
+
+
+ [![Sitambhra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sitambhra&bg_color=030203&color=ff00ee&line=e605d7&point=d7e1cc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
